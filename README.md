@@ -38,7 +38,7 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 
 
 # PROGRAM:
-
+```
 clc
 
 clear all;
@@ -74,7 +74,7 @@ fw2=(abs(fw))^2;
 subplot(3,2,5);
 
 plot(fw2);
-
+```
 
 # OUTPUT:
 
